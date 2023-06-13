@@ -1,5 +1,6 @@
 # javascript
 *.js
+compiled/
 
 # Logs
 logs
